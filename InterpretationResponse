@@ -1,0 +1,26 @@
+this file is my response to the interpretation questions in the readme as I could not figure out
+  how to make changes to the readme file.
+
+Take note of the various variables and their data types. Write a brief summary in this section
+  of the README.md file listing the:
+
+Variable name
+Its data type
+and example values you can assign them.
+
+There is a list of String variables called scriptTemplate
+there is another String that is just the word "priceless"
+an int variable for the amount of people called people
+a float for ticketPrice... so you can use floats
+a double called itemPrice, I see the difference now.
+a Boolean called true or false which appears to have no function outside of providing an example
+  of a boolean and how it prints to console
+
+Next give TWO example variable names and TWO example variable assignments that are WRONG and explain why.
+
+example 1: String jerseyPrice = 90;
+wrong because it is defined as a String but the value assigned to the variable is an int
+example 2: bool dayTime = True;
+wrong because in java it is declared as boolean, in c# I believe it is declared as a bool
+
+Hint: your IDE can help you discover these!
